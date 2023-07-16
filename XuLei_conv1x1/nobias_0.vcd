@@ -1,0 +1,1745 @@
+$date today $end
+$timescale 1 ns $end
+$scope module top $end
+$scope module slice0 $end
+$var integer 1 ! prefetch $end
+$var integer 32 " prefetch_time $end
+$var integer 1 # config $end
+$var integer 1 $ compute $end
+$var integer 32 % compute_time $end
+$var integer 1 & write_back $end
+$var integer 32 ' write_back_time $end
+$var integer 10 ( TG_id $end
+$upscope $end
+$scope module slice1 $end
+$var integer 1 ) prefetch $end
+$var integer 32 * prefetch_time $end
+$var integer 1 + config $end
+$var integer 1 , compute $end
+$var integer 32 - compute_time $end
+$var integer 1 . write_back $end
+$var integer 32 / write_back_time $end
+$var integer 10 0 TG_id $end
+$upscope $end
+$scope module slice10 $end
+$var integer 1 q prefetch $end
+$var integer 32 r prefetch_time $end
+$var integer 1 s config $end
+$var integer 1 t compute $end
+$var integer 32 u compute_time $end
+$var integer 1 v write_back $end
+$var integer 32 w write_back_time $end
+$var integer 10 x TG_id $end
+$upscope $end
+$scope module slice11 $end
+$var integer 1 y prefetch $end
+$var integer 32 z prefetch_time $end
+$var integer 1 { config $end
+$var integer 1 | compute $end
+$var integer 32 } compute_time $end
+$var integer 1 ~ write_back $end
+$var integer 32 !! write_back_time $end
+$var integer 10 "! TG_id $end
+$upscope $end
+$scope module slice12 $end
+$var integer 1 #! prefetch $end
+$var integer 32 $! prefetch_time $end
+$var integer 1 %! config $end
+$var integer 1 &! compute $end
+$var integer 32 '! compute_time $end
+$var integer 1 (! write_back $end
+$var integer 32 )! write_back_time $end
+$var integer 10 *! TG_id $end
+$upscope $end
+$scope module slice13 $end
+$var integer 1 +! prefetch $end
+$var integer 32 ,! prefetch_time $end
+$var integer 1 -! config $end
+$var integer 1 .! compute $end
+$var integer 32 /! compute_time $end
+$var integer 1 0! write_back $end
+$var integer 32 1! write_back_time $end
+$var integer 10 2! TG_id $end
+$upscope $end
+$scope module slice14 $end
+$var integer 1 3! prefetch $end
+$var integer 32 4! prefetch_time $end
+$var integer 1 5! config $end
+$var integer 1 6! compute $end
+$var integer 32 7! compute_time $end
+$var integer 1 8! write_back $end
+$var integer 32 9! write_back_time $end
+$var integer 10 :! TG_id $end
+$upscope $end
+$scope module slice15 $end
+$var integer 1 ;! prefetch $end
+$var integer 32 <! prefetch_time $end
+$var integer 1 =! config $end
+$var integer 1 >! compute $end
+$var integer 32 ?! compute_time $end
+$var integer 1 @! write_back $end
+$var integer 32 A! write_back_time $end
+$var integer 10 B! TG_id $end
+$upscope $end
+$scope module slice2 $end
+$var integer 1 1 prefetch $end
+$var integer 32 2 prefetch_time $end
+$var integer 1 3 config $end
+$var integer 1 4 compute $end
+$var integer 32 5 compute_time $end
+$var integer 1 6 write_back $end
+$var integer 32 7 write_back_time $end
+$var integer 10 8 TG_id $end
+$upscope $end
+$scope module slice3 $end
+$var integer 1 9 prefetch $end
+$var integer 32 : prefetch_time $end
+$var integer 1 ; config $end
+$var integer 1 < compute $end
+$var integer 32 = compute_time $end
+$var integer 1 > write_back $end
+$var integer 32 ? write_back_time $end
+$var integer 10 @ TG_id $end
+$upscope $end
+$scope module slice4 $end
+$var integer 1 A prefetch $end
+$var integer 32 B prefetch_time $end
+$var integer 1 C config $end
+$var integer 1 D compute $end
+$var integer 32 E compute_time $end
+$var integer 1 F write_back $end
+$var integer 32 G write_back_time $end
+$var integer 10 H TG_id $end
+$upscope $end
+$scope module slice5 $end
+$var integer 1 I prefetch $end
+$var integer 32 J prefetch_time $end
+$var integer 1 K config $end
+$var integer 1 L compute $end
+$var integer 32 M compute_time $end
+$var integer 1 N write_back $end
+$var integer 32 O write_back_time $end
+$var integer 10 P TG_id $end
+$upscope $end
+$scope module slice6 $end
+$var integer 1 Q prefetch $end
+$var integer 32 R prefetch_time $end
+$var integer 1 S config $end
+$var integer 1 T compute $end
+$var integer 32 U compute_time $end
+$var integer 1 V write_back $end
+$var integer 32 W write_back_time $end
+$var integer 10 X TG_id $end
+$upscope $end
+$scope module slice7 $end
+$var integer 1 Y prefetch $end
+$var integer 32 Z prefetch_time $end
+$var integer 1 [ config $end
+$var integer 1 \ compute $end
+$var integer 32 ] compute_time $end
+$var integer 1 ^ write_back $end
+$var integer 32 _ write_back_time $end
+$var integer 10 ` TG_id $end
+$upscope $end
+$scope module slice8 $end
+$var integer 1 a prefetch $end
+$var integer 32 b prefetch_time $end
+$var integer 1 c config $end
+$var integer 1 d compute $end
+$var integer 32 e compute_time $end
+$var integer 1 f write_back $end
+$var integer 32 g write_back_time $end
+$var integer 10 h TG_id $end
+$upscope $end
+$scope module slice9 $end
+$var integer 1 i prefetch $end
+$var integer 32 j prefetch_time $end
+$var integer 1 k config $end
+$var integer 1 l compute $end
+$var integer 32 m compute_time $end
+$var integer 1 n write_back $end
+$var integer 32 o write_back_time $end
+$var integer 10 p TG_id $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+b0 "
+0#
+0$
+b0 %
+0&
+b0 '
+b0 (
+0)
+b0 *
+0+
+0,
+b0 -
+0.
+b0 /
+b0 0
+01
+b0 2
+03
+04
+b0 5
+06
+b0 7
+b0 8
+09
+b0 :
+0;
+0<
+b0 =
+0>
+b0 ?
+b0 @
+0A
+b0 B
+0C
+0D
+b0 E
+0F
+b0 G
+b0 H
+0I
+b0 J
+0K
+0L
+b0 M
+0N
+b0 O
+b0 P
+0Q
+b0 R
+0S
+0T
+b0 U
+0V
+b0 W
+b0 X
+0Y
+b0 Z
+0[
+0\
+b0 ]
+0^
+b0 _
+b0 `
+0a
+b0 b
+0c
+0d
+b0 e
+0f
+b0 g
+b0 h
+0i
+b0 j
+0k
+0l
+b0 m
+0n
+b0 o
+b0 p
+0q
+b0 r
+0s
+0t
+b0 u
+0v
+b0 w
+b0 x
+0y
+b0 z
+0{
+0|
+b0 }
+0~
+b0 !!
+b0 "!
+1#!
+b11101010100001 $!
+0%!
+0&!
+b0 '!
+0(!
+b0 )!
+b0 *!
+1+!
+b11101010110001 ,!
+0-!
+0.!
+b0 /!
+00!
+b0 1!
+b0 2!
+13!
+b11101011000001 4!
+05!
+06!
+b0 7!
+08!
+b0 9!
+b0 :!
+1;!
+b11101011010001 <!
+0=!
+0>!
+b0 ?!
+0@!
+b0 A!
+b0 B!
+$end
+#2
+1a
+b11101101001111 b
+1i
+b11101101011111 j
+1q
+b11101101101111 r
+1y
+b11101101111111 z
+#4
+1A
+b11101100001101 B
+1I
+b11101100011101 J
+1Q
+b11101100101101 R
+1Y
+b11101100111101 Z
+#6
+1!
+b111 "
+1)
+b11101110001011 *
+11
+b11101110011111 2
+19
+b11101110101111 :
+#13
+0!
+b0 "
+#15009
+0#!
+b0 $!
+#15025
+0+!
+b0 ,!
+#15041
+03!
+b0 4!
+#15057
+0;!
+b0 <!
+#15121
+0A
+b0 B
+#15137
+0I
+b0 J
+#15153
+0Q
+b0 R
+#15169
+0Y
+b0 Z
+#15185
+0a
+b0 b
+#15201
+0i
+b0 j
+#15217
+0q
+b0 r
+#15233
+0y
+b0 z
+#15249
+0)
+b0 *
+#15269
+01
+b0 2
+#15285
+09
+b0 :
+#15754
+1&!
+b1000111010011 '!
+1.!
+b1000111010011 /!
+16!
+b1000111010011 7!
+1>!
+b1000111010011 ?!
+#15756
+1d
+b1000111010011 e
+1l
+b1000111010011 m
+1t
+b1000111010011 u
+1|
+b1000111010011 }
+#15758
+1D
+b1000111010011 E
+1L
+b1000111010011 M
+1T
+b1000111010011 U
+1\
+b1000111010011 ]
+#15760
+1$
+b1001 %
+1,
+b1000111010011 -
+14
+b1000111010011 5
+1<
+b1000111010011 =
+#15769
+0$
+b0 %
+#15894
+1&
+b1 '
+#15895
+0&
+b0 '
+#15897
+b1 (
+#16200
+1#!
+b11011101001001 $!
+1+!
+b11011101011001 ,!
+13!
+b11011101101001 4!
+1;!
+b11011101111001 <!
+#16202
+1a
+b11011111100111 b
+1i
+b11011111110111 j
+1q
+b11100000000111 r
+1y
+b11100000010111 z
+#16204
+1A
+b11011110100101 B
+1I
+b11011110110101 J
+1Q
+b11011111000101 R
+1Y
+b11011111010101 Z
+#16206
+1!
+b111 "
+1)
+b111 *
+11
+b11100000110011 2
+19
+b11100001000011 :
+#16213
+0!
+b0 "
+0)
+b0 *
+#20317
+0&!
+b0 '!
+0.!
+b0 /!
+06!
+b0 7!
+0>!
+b0 ?!
+#20318
+1(!
+b1 )!
+10!
+b1 1!
+18!
+b1 9!
+1@!
+b1 A!
+#20319
+0d
+b0 e
+0l
+b0 m
+0t
+b0 u
+0|
+b0 }
+0(!
+b0 )!
+00!
+b0 1!
+08!
+b0 9!
+0@!
+b0 A!
+#20320
+1f
+b1 g
+1n
+b1 o
+1v
+b1 w
+1~
+b1 !!
+#20321
+0D
+b0 E
+0L
+b0 M
+0T
+b0 U
+0\
+b0 ]
+0f
+b0 g
+0n
+b0 o
+0v
+b0 w
+0~
+b0 !!
+b1 *!
+b1 2!
+b1 :!
+b1 B!
+#20322
+1F
+b1 G
+1N
+b1 O
+1V
+b1 W
+1^
+b1 _
+#20323
+0,
+b0 -
+04
+b0 5
+0<
+b0 =
+0F
+b0 G
+0N
+b0 O
+0V
+b0 W
+0^
+b0 _
+b1 h
+b1 p
+b1 x
+b1 "!
+#20324
+1.
+b1 /
+16
+b1 7
+1>
+b1 ?
+#20325
+0.
+b0 /
+06
+b0 7
+0>
+b0 ?
+b1 H
+b1 P
+b1 X
+b1 `
+#20327
+b1 0
+b1 8
+b1 @
+#30353
+0#!
+b0 $!
+#30369
+0+!
+b0 ,!
+#30385
+03!
+b0 4!
+#30401
+0;!
+b0 <!
+#30449
+0A
+b0 B
+#30465
+0I
+b0 J
+#30481
+0Q
+b0 R
+#30497
+0Y
+b0 Z
+#30513
+0a
+b0 b
+#30529
+0i
+b0 j
+#30545
+0q
+b0 r
+#30561
+0y
+b0 z
+#30593
+01
+b0 2
+#30609
+09
+b0 :
+#31066
+1&!
+b1000111110111 '!
+1.!
+b1000111110111 /!
+16!
+b1000111110111 7!
+1>!
+b1000111110111 ?!
+#31068
+1d
+b1000111110111 e
+1l
+b1000111110111 m
+1t
+b1000111110111 u
+1|
+b1000111110111 }
+#31070
+1D
+b1000111110111 E
+1L
+b1000111110111 M
+1T
+b1000111110111 U
+1\
+b1000111110111 ]
+#31072
+1$
+b1001 %
+1,
+b1001 -
+14
+b1000111110111 5
+1<
+b1000111110111 =
+#31081
+0$
+b0 %
+0,
+b0 -
+#31206
+1&
+b1 '
+1.
+b1 /
+#31207
+0&
+b0 '
+0.
+b0 /
+#31209
+b10 (
+b10 0
+#31512
+1#!
+b11100000110101 $!
+1+!
+b11100001000101 ,!
+13!
+b11100001010101 4!
+1;!
+b11100001100101 <!
+#31514
+1a
+b11100011010011 b
+1i
+b11100011100011 j
+1q
+b11100011110011 r
+1y
+b11100100000011 z
+#31516
+1A
+b11100010010001 B
+1I
+b11100010100001 J
+1Q
+b11100010110001 R
+1Y
+b11100011000001 Z
+#31518
+1!
+b111 "
+1)
+b100000001101111100011 *
+11
+b11100100001111 2
+19
+b11100100100111 :
+#31525
+0!
+b0 "
+#35665
+0&!
+b0 '!
+0.!
+b0 /!
+06!
+b0 7!
+0>!
+b0 ?!
+#35666
+1(!
+b1 )!
+10!
+b1 1!
+18!
+b1 9!
+1@!
+b1 A!
+#35667
+0d
+b0 e
+0l
+b0 m
+0t
+b0 u
+0|
+b0 }
+0(!
+b0 )!
+00!
+b0 1!
+08!
+b0 9!
+0@!
+b0 A!
+#35668
+1f
+b1 g
+1n
+b1 o
+1v
+b1 w
+1~
+b1 !!
+#35669
+0D
+b0 E
+0L
+b0 M
+0T
+b0 U
+0\
+b0 ]
+0f
+b0 g
+0n
+b0 o
+0v
+b0 w
+0~
+b0 !!
+b10 *!
+b10 2!
+b10 :!
+b10 B!
+#35670
+1F
+b1 G
+1N
+b1 O
+1V
+b1 W
+1^
+b1 _
+#35671
+04
+b0 5
+0<
+b0 =
+0F
+b0 G
+0N
+b0 O
+0V
+b0 W
+0^
+b0 _
+b10 h
+b10 p
+b10 x
+b10 "!
+#35672
+16
+b1 7
+1>
+b1 ?
+#35673
+06
+b0 7
+0>
+b0 ?
+b10 H
+b10 P
+b10 X
+b10 `
+#35675
+b10 8
+b10 @
+#45901
+0#!
+b0 $!
+#45917
+0+!
+b0 ,!
+#45933
+03!
+b0 4!
+#45949
+0;!
+b0 <!
+#45997
+0A
+b0 B
+#46013
+0I
+b0 J
+#46029
+0Q
+b0 R
+#46045
+0Y
+b0 Z
+#46061
+0a
+b0 b
+#46077
+0i
+b0 j
+#46093
+0q
+b0 r
+#46109
+0y
+b0 z
+#46125
+01
+b0 2
+#46149
+09
+b0 :
+#46614
+1&!
+b1000111110111 '!
+1.!
+b1000111110111 /!
+16!
+b1000111110111 7!
+1>!
+b1000111110111 ?!
+#46616
+1d
+b1000111110111 e
+1l
+b1000111110111 m
+1t
+b1000111110111 u
+1|
+b1000111110111 }
+#46618
+1D
+b1000111110111 E
+1L
+b1000111110111 M
+1T
+b1000111110111 U
+1\
+b1000111110111 ]
+#46620
+1$
+b1001 %
+14
+b1000111110111 5
+1<
+b1000111110111 =
+#46629
+0$
+b0 %
+#46754
+1&
+b1 '
+#46755
+0&
+b0 '
+#46757
+b11 (
+#47060
+1#!
+b11100000101011 $!
+1+!
+b11100000111011 ,!
+13!
+b11100001001011 4!
+1;!
+b11100001011011 <!
+#47062
+1a
+b11100011001001 b
+1i
+b11100011011001 j
+1q
+b11100011101001 r
+1y
+b11100011111001 z
+#47064
+1A
+b11100010000111 B
+1I
+b11100010010111 J
+1Q
+b11100010100111 R
+1Y
+b11100010110111 Z
+#47066
+1!
+b111 "
+11
+b11100100000101 2
+19
+b11100100011101 :
+#47073
+0!
+b0 "
+#51213
+0&!
+b0 '!
+0.!
+b0 /!
+06!
+b0 7!
+0>!
+b0 ?!
+#51214
+1(!
+b1 )!
+10!
+b1 1!
+18!
+b1 9!
+1@!
+b1 A!
+#51215
+0d
+b0 e
+0l
+b0 m
+0t
+b0 u
+0|
+b0 }
+0(!
+b0 )!
+00!
+b0 1!
+08!
+b0 9!
+0@!
+b0 A!
+#51216
+1f
+b1 g
+1n
+b1 o
+1v
+b1 w
+1~
+b1 !!
+#51217
+0D
+b0 E
+0L
+b0 M
+0T
+b0 U
+0\
+b0 ]
+0f
+b0 g
+0n
+b0 o
+0v
+b0 w
+0~
+b0 !!
+b11 *!
+b11 2!
+b11 :!
+b11 B!
+#51218
+1F
+b1 G
+1N
+b1 O
+1V
+b1 W
+1^
+b1 _
+#51219
+04
+b0 5
+0<
+b0 =
+0F
+b0 G
+0N
+b0 O
+0V
+b0 W
+0^
+b0 _
+b11 h
+b11 p
+b11 x
+b11 "!
+#51220
+16
+b1 7
+1>
+b1 ?
+#51221
+06
+b0 7
+0>
+b0 ?
+b11 H
+b11 P
+b11 X
+b11 `
+#51223
+b11 8
+b11 @
+#61439
+0#!
+b0 $!
+#61455
+0+!
+b0 ,!
+#61471
+03!
+b0 4!
+#61487
+0;!
+b0 <!
+#61535
+0A
+b0 B
+#61551
+0I
+b0 J
+#61567
+0Q
+b0 R
+#61583
+0Y
+b0 Z
+#61599
+0a
+b0 b
+#61615
+0i
+b0 j
+#61631
+0q
+b0 r
+#61647
+0y
+b0 z
+#61663
+01
+b0 2
+#61687
+09
+b0 :
+#62168
+1&!
+b1000111110111 '!
+1.!
+b1000111110111 /!
+16!
+b1000111110111 7!
+1>!
+b1000111110111 ?!
+#62170
+1d
+b1000111110111 e
+1l
+b1000111110111 m
+1t
+b1000111110111 u
+1|
+b1000111110111 }
+#62172
+1D
+b1000111110111 E
+1L
+b1000111110111 M
+1T
+b1000111110111 U
+1\
+b1000111110111 ]
+#62174
+1$
+b1001 %
+14
+b1000111110111 5
+1<
+b1000111110111 =
+#62183
+0$
+b0 %
+#62308
+1&
+b1 '
+#62309
+0&
+b0 '
+#62311
+b100 (
+#62650
+1#!
+b11011101001101 $!
+1+!
+b11011101011101 ,!
+13!
+b11011101101101 4!
+1;!
+b11011101111101 <!
+#62652
+1a
+b11011111101011 b
+1i
+b11011111111011 j
+1q
+b11100000001011 r
+1y
+b11100000011011 z
+#62654
+1A
+b11011110101001 B
+1I
+b11011110111001 J
+1Q
+b11011111001001 R
+1Y
+b11011111011001 Z
+#62656
+1!
+b111 "
+11
+b11100000111001 2
+19
+b11100001001001 :
+#62663
+0!
+b0 "
+#66767
+0&!
+b0 '!
+0.!
+b0 /!
+06!
+b0 7!
+0>!
+b0 ?!
+#66768
+1(!
+b1 )!
+10!
+b1 1!
+18!
+b1 9!
+1@!
+b1 A!
+#66769
+0d
+b0 e
+0l
+b0 m
+0t
+b0 u
+0|
+b0 }
+0(!
+b0 )!
+00!
+b0 1!
+08!
+b0 9!
+0@!
+b0 A!
+#66770
+1f
+b1 g
+1n
+b1 o
+1v
+b1 w
+1~
+b1 !!
+#66771
+0D
+b0 E
+0L
+b0 M
+0T
+b0 U
+0\
+b0 ]
+0f
+b0 g
+0n
+b0 o
+0v
+b0 w
+0~
+b0 !!
+b100 *!
+b100 2!
+b100 :!
+b100 B!
+#66772
+1F
+b1 G
+1N
+b1 O
+1V
+b1 W
+1^
+b1 _
+#66773
+04
+b0 5
+0<
+b0 =
+0F
+b0 G
+0N
+b0 O
+0V
+b0 W
+0^
+b0 _
+b100 h
+b100 p
+b100 x
+b100 "!
+#66774
+16
+b1 7
+1>
+b1 ?
+#66775
+06
+b0 7
+0>
+b0 ?
+b100 H
+b100 P
+b100 X
+b100 `
+#66777
+b100 8
+b100 @
+#76807
+0#!
+b0 $!
+#76823
+0+!
+b0 ,!
+#76839
+03!
+b0 4!
+#76855
+0;!
+b0 <!
+#76903
+0A
+b0 B
+#76919
+0I
+b0 J
+#76935
+0Q
+b0 R
+#76951
+0Y
+b0 Z
+#76967
+0a
+b0 b
+#76983
+0i
+b0 j
+#76999
+0q
+b0 r
+#77015
+0y
+b0 z
+#77049
+01
+b0 2
+#77065
+09
+b0 :
+#77522
+1&!
+b1000111110111 '!
+1.!
+b1000111110111 /!
+16!
+b1000111110111 7!
+1>!
+b1000111110111 ?!
+#77524
+1d
+b1000111110111 e
+1l
+b1000111110111 m
+1t
+b1000111110111 u
+1|
+b1000111110111 }
+#77526
+1D
+b1000111110111 E
+1L
+b1000111110111 M
+1T
+b1000111110111 U
+1\
+b1000111110111 ]
+#77528
+1$
+b1001 %
+14
+b1000111110111 5
+1<
+b1000111110111 =
+#77537
+0$
+b0 %
+#77662
+1&
+b1 '
+#77663
+0&
+b0 '
+#77665
+b101 (
+#82121
+0&!
+b0 '!
+0.!
+b0 /!
+06!
+b0 7!
+0>!
+b0 ?!
+#82122
+1(!
+b1 )!
+10!
+b1 1!
+18!
+b1 9!
+1@!
+b1 A!
+#82123
+0d
+b0 e
+0l
+b0 m
+0t
+b0 u
+0|
+b0 }
+0(!
+b0 )!
+00!
+b0 1!
+08!
+b0 9!
+0@!
+b0 A!
+#82124
+1f
+b1 g
+1n
+b1 o
+1v
+b1 w
+1~
+b1 !!
+#82125
+0D
+b0 E
+0L
+b0 M
+0T
+b0 U
+0\
+b0 ]
+0f
+b0 g
+0n
+b0 o
+0v
+b0 w
+0~
+b0 !!
+b101 *!
+b101 2!
+b101 :!
+b101 B!
+#82126
+1F
+b1 G
+1N
+b1 O
+1V
+b1 W
+1^
+b1 _
+#82127
+04
+b0 5
+0<
+b0 =
+0F
+b0 G
+0N
+b0 O
+0V
+b0 W
+0^
+b0 _
+b101 h
+b101 p
+b101 x
+b101 "!
+#82128
+16
+b1 7
+1>
+b1 ?
+#82129
+06
+b0 7
+0>
+b0 ?
+b101 H
+b101 P
+b101 X
+b101 `
+#82131
+b101 8
+b101 @
+#82444
+1#!
+b11011100110101 $!
+1+!
+b11011101000101 ,!
+13!
+b11011101010101 4!
+1;!
+b11011101100101 <!
+#82446
+1a
+b11011111010011 b
+1i
+b11011111100011 j
+1q
+b11011111110011 r
+1y
+b11100000000011 z
+#82448
+1A
+b11011110010001 B
+1I
+b11011110100001 J
+1Q
+b11011110110001 R
+1Y
+b11011111000001 Z
+#82450
+1!
+b111 "
+11
+b11100000011111 2
+19
+b11100000101111 :
+#82457
+0!
+b0 "
+#96577
+0#!
+b0 $!
+#96593
+0+!
+b0 ,!
+#96609
+03!
+b0 4!
+#96625
+0;!
+b0 <!
+#96673
+0A
+b0 B
+#96689
+0I
+b0 J
+#96705
+0Q
+b0 R
+#96721
+0Y
+b0 Z
+#96737
+0a
+b0 b
+#96753
+0i
+b0 j
+#96769
+0q
+b0 r
+#96785
+0y
+b0 z
+#96817
+01
+b0 2
+#96833
+09
+b0 :
+#97322
+1&!
+b1000111110111 '!
+1.!
+b1000111110111 /!
+16!
+b1000111110111 7!
+1>!
+b1000111110111 ?!
+#97324
+1d
+b1000111110111 e
+1l
+b1000111110111 m
+1t
+b1000111110111 u
+1|
+b1000111110111 }
+#97326
+1D
+b1000111110111 E
+1L
+b1000111110111 M
+1T
+b1000111110111 U
+1\
+b1000111110111 ]
+#97328
+1$
+b1001 %
+14
+b1000111110111 5
+1<
+b1000111110111 =
+#97337
+0$
+b0 %
+#97462
+1&
+b1 '
+#97463
+0&
+b0 '
+#97465
+b110 (
+#101921
+0&!
+b0 '!
+0.!
+b0 /!
+06!
+b0 7!
+0>!
+b0 ?!
+#101922
+1(!
+b1 )!
+10!
+b1 1!
+18!
+b1 9!
+1@!
+b1 A!
+#101923
+0d
+b0 e
+0l
+b0 m
+0t
+b0 u
+0|
+b0 }
+0(!
+b0 )!
+00!
+b0 1!
+08!
+b0 9!
+0@!
+b0 A!
+#101924
+1f
+b1 g
+1n
+b1 o
+1v
+b1 w
+1~
+b1 !!
+#101925
+0D
+b0 E
+0L
+b0 M
+0T
+b0 U
+0\
+b0 ]
+0f
+b0 g
+0n
+b0 o
+0v
+b0 w
+0~
+b0 !!
+b110 *!
+b110 2!
+b110 :!
+b110 B!
+#101926
+1F
+b1 G
+1N
+b1 O
+1V
+b1 W
+1^
+b1 _
+#101927
+04
+b0 5
+0<
+b0 =
+0F
+b0 G
+0N
+b0 O
+0V
+b0 W
+0^
+b0 _
+b110 h
+b110 p
+b110 x
+b110 "!
+#101928
+16
+b1 7
+1>
+b1 ?
+#101929
+06
+b0 7
+0>
+b0 ?
+b110 H
+b110 P
+b110 X
+b110 `
+#101931
+b110 8
+b110 @
+#102244
+1#!
+b100010011000000101001 $!
+1+!
+b100010011000000101001 ,!
+13!
+b100010011000000101001 4!
+1;!
+b100010011000000101001 <!
+#102246
+1a
+b100010011000000101011 b
+1i
+b100010011000000101011 j
+1q
+b100010011000000101011 r
+1y
+b100010011000000101011 z
+#102248
+1A
+b100010011000000101101 B
+1I
+b100010011000000101101 J
+1Q
+b100010011000000101101 R
+1Y
+b100010011000000101101 Z
+#102250
+1!
+b111 "
+11
+b100010011000000101111 2
+19
+b100010011000000101111 :
+#102257
+0!
+b0 "

@@ -1,0 +1,192 @@
+ag0 read request stall cycles           0 write request stall cycles        1160
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable         443
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable         444
+ag3 read request stall cycles          13 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable        4554
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        1533
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable         919
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable         921
+ag3 read request stall cycles          38 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable        9128
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        1906
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        1395
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        1398
+ag3 read request stall cycles          63 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       13702
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        2279
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        1871
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        1875
+ag3 read request stall cycles          88 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       18276
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        2652
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        2347
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        2352
+ag3 read request stall cycles         113 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       22850
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        3025
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        2823
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        2829
+ag3 read request stall cycles         138 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       27424
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        3398
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        3299
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        3306
+ag3 read request stall cycles         163 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       31998
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        3771
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        3775
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        3783
+ag3 read request stall cycles         188 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       36572
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        4144
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        4251
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        4260
+ag3 read request stall cycles         213 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       41146
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        4517
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        4727
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        4737
+ag3 read request stall cycles         238 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       45720
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        4890
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        5203
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        5214
+ag3 read request stall cycles         263 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       50294
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
+ag0 read request stall cycles           0 write request stall cycles        5263
+ag0 read request stall cycles due to wait for rd fifo avaliable           0
+ag1 read request stall cycles           0 write request stall cycles           0
+ag1 read request stall cycles due to wait for rd fifo avaliable        5679
+ag2 read request stall cycles           0 write request stall cycles           0
+ag2 read request stall cycles due to wait for rd fifo avaliable        5691
+ag3 read request stall cycles         288 write request stall cycles           0
+ag3 read request stall cycles due to wait for rd fifo avaliable       54868
+ag4 read request stall cycles           0 write request stall cycles           0
+ag4 read request stall cycles due to wait for rd fifo avaliable           0
+ag5 read request stall cycles           0 write request stall cycles           0
+ag5 read request stall cycles due to wait for rd fifo avaliable           0
+ag6 read request stall cycles           0 write request stall cycles           0
+ag6 read request stall cycles due to wait for rd fifo avaliable           0
+ag7 read request stall cycles           0 write request stall cycles           0
+ag7 read request stall cycles due to wait for rd fifo avaliable           0
